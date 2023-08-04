@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://data-angsinge.github.io/ang-1/sitemap.xml
